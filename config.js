@@ -5,7 +5,7 @@ window.Config = {
   SiteName: 'Ramsong Uptime Status',
 
   // 站点链接
-  SiteUrl: '/RrvvRsGmQV',
+  SiteUrl: '/',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
@@ -31,11 +31,11 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://stats.ramsong.cn/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/ramsong'
     }
   ]
 };
