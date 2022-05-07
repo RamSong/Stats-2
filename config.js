@@ -30,7 +30,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: 'Stats',
       url: 'https://stats.ramsong.cn/'
     },
     {
